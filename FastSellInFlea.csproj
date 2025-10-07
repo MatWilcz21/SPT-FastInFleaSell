@@ -23,8 +23,7 @@
         <ErrorReport>prompt</ErrorReport>
         <WarningLevel>4</WarningLevel>
         <PostBuildEvent>
-            copy /Y "F:\GitHub\Tarkov\SPT-FastInFleaSell\bin\Debug\Kat.FastSellInFlea.dll" "F:\Games\SPT-Dev\BepInEx\plugins\Kat.FastSellInFlea.dll"
-            copy /Y "F:\GitHub\Tarkov\SPT-FastInFleaSell\bin\Debug\Kat.FastSellInFlea.dll" "F:\Games\SPT\BepInEx\plugins\Kat.FastSellInFlea.dll"
+            copy /Y "C:\GitHub\Tarkov\SPT-FastInFleaSell\bin\Debug\Kat.FastSellInFlea.dll" "C:\Games\SPT4_0\BepInEx\plugins\Kat.FastSellInFlea.dll"
         </PostBuildEvent>
     </PropertyGroup>
     <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
@@ -35,8 +34,7 @@
         <ErrorReport>prompt</ErrorReport>
         <WarningLevel>4</WarningLevel>
         <PostBuildEvent>
-            copy /Y "F:\GitHub\Tarkov\SPT-FastInFleaSell\bin\Release\Kat.FastSellInFlea.dll" "F:\Games\SPT-Dev\BepInEx\plugins\Kat.FastSellInFlea.dll"
-            copy /Y "F:\GitHub\Tarkov\SPT-FastInFleaSell\bin\Release\Kat.FastSellInFlea.dll" "F:\Games\SPT\BepInEx\plugins\Kat.FastSellInFlea.dll"
+            copy /Y "C:\GitHub\Tarkov\SPT-FastInFleaSell\bin\Release\Kat.FastSellInFlea.dll" "C:\Games\SPT4_0\BepInEx\plugins\Kat.FastSellInFlea.dll"
         </PostBuildEvent>
     </PropertyGroup>
     <PropertyGroup>

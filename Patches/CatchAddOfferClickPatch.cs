@@ -17,7 +17,7 @@ namespace FastSellInFlea.Patches
     {
         protected override MethodBase GetTargetMethod()
         {
-            return AccessTools.Method(typeof(GClass3468), "method_6");
+            return AccessTools.Method(typeof(ContextInteractionsAbstractClass), "method_6");
         }
 
         [PatchPrefix]

@@ -4,7 +4,7 @@ using System.Linq;
 using EFT.Communications;
 using EFT.InventoryLogic;
 using FastSellInFlea.Models;
-using FleaRequirement = GClass2102;
+using FleaRequirement = GClass2335;
 
 namespace FastSellInFlea.Utils
 {
